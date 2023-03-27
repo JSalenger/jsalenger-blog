@@ -157,7 +157,7 @@ defaults:
   home:
     heading: "Jón Salenger's Blog"
     subheading: "Because there is no content yet I am unable to think of a name for this place."
-    banner: "/assets/images/banners/home.jpeg"
+    banner: "https://cdn.jsdelivr.net/gh/jsalenger/jsalenger-blog/home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
